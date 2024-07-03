@@ -1,10 +1,10 @@
 [package]
-name = "async-pidfd"
-version = "0.1.4"
-authors = ["Josh Triplett <josh@joshtriplett.org>"]
+name = "async-pidfd-next"
+version = "0.1.0"
+authors = ["Josh Triplett <josh@joshtriplett.org>", "MaxVerevkin <maxxverrr@gmail.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/joshtriplett/async-pidfd"
+repository = "https://github.com/MaxVerevkin/async-pidfd"
 description = "Process file descriptors (pidfd) for Linux"
 readme = "README.md"
 keywords = ["process", "file-descriptor", "wait", "future", "futures"]

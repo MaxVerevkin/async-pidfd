@@ -27,7 +27,7 @@
 //! use std::os::unix::process::ExitStatusExt;
 //! use std::process::{Command, ExitStatus};
 //!
-//! use async_pidfd::PidFd;
+//! use async_pidfd_next::PidFd;
 //!
 //! fn main() -> std::io::Result<()> {
 //!     let child = Command::new("/bin/true").spawn()?;
@@ -78,7 +78,7 @@
 //! use std::os::unix::process::ExitStatusExt;
 //! use std::process::{Command, ExitStatus};
 //!
-//! use async_pidfd::AsyncPidFd;
+//! use async_pidfd_next::AsyncPidFd;
 //! use futures_lite::future;
 //!
 //! async fn async_spawn_and_status(cmd: &mut Command) -> std::io::Result<ExitStatus> {

@@ -1,3 +1,5 @@
+This is a maintained fork of [`async-pidfd`](https://github.com/joshtriplett/async-pidfd).
+
 Process file descriptors (`pidfd`) for Linux
 ============================================
 
