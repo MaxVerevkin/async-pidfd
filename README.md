@@ -1,4 +1,4 @@
-This is a maintained fork of [`async-pidfd`](https://github.com/joshtriplett/async-pidfd).
+Deprecated in favour of [`async-pidfd`](https://github.com/async-pidfd/async-pidfd).
 
 Process file descriptors (`pidfd`) for Linux
 ============================================
